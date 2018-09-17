@@ -21,7 +21,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'bundler', '>= 1.6.9'
   spec.add_development_dependency 'rake', '~> 10.0'
   spec.add_development_dependency 'rspec'
-  spec.add_dependency 'activesupport', '>= 4.0', '< 5.0'
+  spec.add_dependency 'activesupport', '>= 4.0'
   spec.add_dependency 'virtus', '~> 1.0'
   spec.add_dependency 'representable', '~> 2.0'
 end
